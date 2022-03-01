@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPSProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2F916EDD-1739-477E-8F38-C8DE9856CBD4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPSProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{72C17ADF-AE51-447B-8BE1-8950BBC77666}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPSProject">
+      <UniqueIdentifier>{2F36979D-CCDD-47F6-B7FF-AF8B369FD296}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSProject\FPSCharacter.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSCharacter.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSHUD.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSHUD.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FPSProject\FPSProject.Build.cs">
+      <Filter>Source\FPSProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProject.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProject.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProjectGameModeBase.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProjectGameModeBase.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProjectile.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProjectile.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\LightSwitchCodeOnly.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\LightSwitchCodeOnly.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
