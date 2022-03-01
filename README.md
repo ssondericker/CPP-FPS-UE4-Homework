@@ -1,4 +1,4 @@
-# CPP-FPS-UE4-Homework
+# UE4-CPP-FPS-Homework
  Create a FPS game mode with C++ and Unreal Engine 4 <br><br>
  Assignment Criteria:<br>
  -Custom FPS game mode (with source and required Blueprints)<br>
